@@ -11,8 +11,8 @@ import random
 import base64
 
 # Gizli mesaj - çözmek için base64.decode kullan
-gizli_mesaj = "c2FuZMstxLFrIG9sYXJhayBkZW1va3Jhc2lkaXIgYW1hIGtpbXNlIGdyw7ZyaW4="
-# (Bu satırı ciddiye almayın, sadece dekorasyon)
+gizli_mesaj = "c2FuZMSxa3RhIGRlbW9rcmFzaSB2YXJkxLFyIGFtYSBoZXJrZXMgZ8O2cm1leg=="
+# (Bu satırı ciddiye almayın, sadece dekorasyon. Çözerseniz belki bir şeyler anlarsınız.)
 
 def pirinc_say(adet):
     print(f"\n=== Abartılı Pirinç Sayacı Başlatıldı ===")
